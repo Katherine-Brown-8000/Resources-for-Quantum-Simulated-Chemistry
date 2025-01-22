@@ -6,3 +6,4 @@ packages
 
 
 ### Packages
+[Qiskit](https://github.com/Qiskit/qiskit)
