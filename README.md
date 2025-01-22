@@ -7,3 +7,4 @@ packages
 
 ### Packages
 [Qiskit](https://github.com/Qiskit/qiskit)
+[OpenFermion](https://github.com/quantumlib/OpenFermion)
