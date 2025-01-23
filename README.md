@@ -5,9 +5,6 @@ One of Quantum computer greatest applications lays in it's ability to simulate c
 wonderful problem, because it doesn’t look so easy* — Richard Feynman
 
 ## Table of contents
-- Packages
-- Youtube videos
-
 - [Packages](#packages)
 - [YouTube Videos](#youtube-videos)
 
