@@ -8,6 +8,9 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 - Packages
 - Youtube videos
 
+- [Packages](#packages)
+- [YouTube Videos](#youtube-videos)
+
 
 ### Packages
 - [Qiskit](https://github.com/Qiskit/qiskit)
