@@ -13,3 +13,7 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 - [Qiskit](https://github.com/Qiskit/qiskit)
 - [OpenFermion](https://github.com/quantumlib/OpenFermion)
 - [Cuda-q](https://github.com/NVIDIA/cuda-q-academic)
+
+
+## Youtube videos
+- [The Quantum algorithm that could make pharma billions](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
