@@ -16,4 +16,4 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 
 
 ## Youtube videos
-- [The Quantum algorithm that could make pharma billions](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
+- [The Quantum Algorithm That Could Make Big Pharma Billions](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
