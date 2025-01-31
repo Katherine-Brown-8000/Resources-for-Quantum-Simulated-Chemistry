@@ -14,6 +14,7 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 - [Qiskit](https://github.com/Qiskit/qiskit)
 - [OpenFermion](https://github.com/quantumlib/OpenFermion)
 - [Cuda-q](https://github.com/NVIDIA/cuda-q-academic)
+- [PennyLane](https://github.com/PennyLaneAI/pennylane)
 
 ### Learn more about Quantum Chemistry
  - [pennylane](https://pennylane.ai/qml/quantum-chemistry)
