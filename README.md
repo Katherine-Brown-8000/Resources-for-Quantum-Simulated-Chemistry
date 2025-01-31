@@ -24,8 +24,9 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
  - [Qiskit guide by IBM](https://www.ibm.com/quantum/qiskit)
  - [Quantum learning](https://learning.quantum.ibm.com/)
 
-### Youtube videos
-- [The Quantum Algorithm That Could Make Big Pharma Billions](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
+### Programming videos
+- [Quantum chemistry using Cuda-q](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
+- [Quantum chemistry using penny lane](https://www.youtube.com/watch?v=khC0CCjxB7k)
 
 ### Books
  - [Quantum Chemistry and Computing for the Curious](https://www.amazon.com/Quantum-Chemistry-Computing-Curious-Illustrated/dp/1803243902/ref=sr_1_1?crid=PJ41TMKHZ7Y&dib=eyJ2IjoiMSJ9.6fftoCZeSlqdBZJZKfpQpARvOeCxsaltyjgd6Qh9CMfeocW3N3Kma0QrdOP0O8cRz-1Ebshmc02uHzfk8wU1yrAZzSJnsc1z7j3YIPlhAga2tl5I6H13yDB6dTRDFziaTtde2gZLvik9JdfK7HhL7F8csAFsQP3Lp0RpDJiNBsriD8AKi7Nn1WK6Gz4PqALb.plvWU8sw5e0GsbdK6AZEi1r2u_4L7FMVQGSXwyRlmuc&dib_tag=se&keywords=quantum+chemistry+for+the+curious&qid=1738295943&sprefix=quantum+chemistry+for+the+curious%2Caps%2C142&sr=8-1)
