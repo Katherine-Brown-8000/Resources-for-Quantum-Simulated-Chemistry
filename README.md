@@ -14,6 +14,8 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 - [OpenFermion](https://github.com/quantumlib/OpenFermion)
 - [Cuda-q](https://github.com/NVIDIA/cuda-q-academic)
 
+### Online Guides
 
-## Youtube videos
+
+### Youtube videos
 - [The Quantum Algorithm That Could Make Big Pharma Billions](https://www.youtube.com/watch?v=Fvwyd0536Gc&t=317s)
