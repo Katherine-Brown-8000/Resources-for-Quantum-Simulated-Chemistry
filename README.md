@@ -16,6 +16,7 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 
 ### Online Guides
  - [Qiskit guide by IBM](https://www.ibm.com/quantum/qiskit)
+ - [Quantum learning](https://learning.quantum.ibm.com/)
 
 
 ### Youtube videos
