@@ -6,8 +6,8 @@ wonderful problem, because it doesn’t look so easy* — Richard Feynman
 
 ## Table of contents
 - [Packages](#packages)
-- [YouTube Videos](#youtube-videos)
 - [Online guides](#online-Guides)
+- [YouTube Videos](#youtube-videos)
 
 
 ### Packages
